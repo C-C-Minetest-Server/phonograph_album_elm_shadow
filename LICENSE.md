@@ -27,4 +27,4 @@ Unless otherwise specified, this aplies to all media in this repository.
 
 This work © 2024 by Elm Shadow is licensed under [CC BY-SA 4.0](http://creativecommons.org/licenses/by-sa/4.0/).
 
-* `screenshot.jpg`: by 1F616EMO, [CC BY-SA 4.0](http://creativecommons.org/licenses/by-sa/4.0/)
+* `screenshot.jpg`: by Elm Shadow, taken and modified by 1F616EMO, [CC BY-SA 4.0](http://creativecommons.org/licenses/by-sa/4.0/)
